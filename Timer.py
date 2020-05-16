@@ -1,9 +1,6 @@
-#! /usr/bin/env python 
 import os
 import time
-import tk_tools
 import tkinter as tk
-from tkinter import *
 from tkinter import messagebox
 
 root = tk.Tk()
