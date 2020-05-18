@@ -3,10 +3,13 @@ A Timer that pops-up a message declaring that you have been staring at your scre
 
 Installation : 
 you got two options  : 
+
     1- compile it with pyinstaller
+    
        $ pip install pyinstaller 
        $ pyinstaller Timer.py --onefile
        startup applications > add > Timer
+       
        
     2-just run the script with the ide or python interpreter 
 
